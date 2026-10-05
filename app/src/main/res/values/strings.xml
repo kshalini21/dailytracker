@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailyTrack</string>
+    <string name="app_tagline">Small Steps. Big Progress.</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_notes">Notes</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Track what matters,\nnot just what\'s urgent.</string>
+    <string name="onboarding_title_2">Create habits,\nmanage your classes\nand stay consistent.</string>
+    <string name="onboarding_title_3">Make progress\nevery single day.</string>
+    <string name="onboarding_sub_1">Your daily goals, tasks and schedule — all in one place.</string>
+    <string name="onboarding_sub_2">Build routines that stick and never miss a class again.</string>
+    <string name="onboarding_sub_3">Small actions compound into big results over time.</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="enter_name_hint">Your name</string>
+    <string name="enter_name_title">What should we call you?</string>
+
+    <!-- Home -->
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="lets_make_productive">Let\'s make today productive. 🚀</string>
+    <string name="motivational_quote">Progress,\nnot perfection.</string>
+    <string name="todays_progress">Today\'s Progress</string>
+    <string name="completed">completed</string>
+    <string name="classes">Classes</string>
+    <string name="tasks_left">Tasks Left</string>
+    <string name="habits_done">Habits Done</string>
+    <string name="notes_today">Notes Today</string>
+    <string name="todays_schedule">Today\'s Schedule</string>
+    <string name="due_soon">Due Soon</string>
+    <string name="todays_tasks">Today\'s Tasks</string>
+    <string name="view_all">View all →</string>
+    <string name="see_all">See all →</string>
+    <string name="no_schedule_today">No classes today</string>
+    <string name="no_tasks_today">No tasks for today</string>
+    <string name="no_due_soon">Nothing due soon 🎉</string>
+
+    <!-- Quick Add -->
+    <string name="quick_add">Quick Add</string>
+    <string name="add_task">+ Task</string>
+    <string name="add_habit">+ Habit</string>
+    <string name="add_note">+ Note</string>
+    <string name="add_class">+ Class</string>
+    <string name="add_exam">+ Exam</string>
+
+    <!-- Tasks -->
+    <string name="tasks">Tasks</string>
+    <string name="add_edit_task">Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description (optional)</string>
+    <string name="due_date">Due Date</string>
+    <string name="priority">Priority</string>
+    <string name="category">Category</string>
+    <string name="save_task">Save Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="filter_all">All</string>
+    <string name="filter_today">Today</string>
+    <string name="filter_upcoming">Upcoming</string>
+    <string name="filter_done">Done</string>
+    <string name="search_tasks">Search tasks…</string>
+    <string name="no_tasks">No tasks yet</string>
+    <string name="no_tasks_sub">Add your first task to get started.</string>
+    <string name="task_title_required">Title is required</string>
+
+    <!-- Priority -->
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+
+    <!-- Categories -->
+    <string name="cat_college">College</string>
+    <string name="cat_study">Study</string>
+    <string name="cat_coding">Coding</string>
+    <string name="cat_assignment">Assignment</string>
+    <string name="cat_lab">Lab</string>
+    <string name="cat_project">Project</string>
+    <string name="cat_personal">Personal</string>
+
+    <!-- Habits -->
+    <string name="habits">Habits</string>
+    <string name="add_habit_title">Add Habit</string>
+    <string name="edit_habit_title">Edit Habit</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="habit_frequency">Frequency</string>
+    <string name="save_habit">Save Habit</string>
+    <string name="delete_habit">Delete Habit</string>
+    <string name="no_habits">No habits yet</string>
+    <string name="no_habits_sub">Build your first habit today.</string>
+    <string name="streak">streak</string>
+
+    <!-- Notes -->
+    <string name="notes">Notes</string>
+    <string name="add_note_title">Add Note</string>
+    <string name="edit_note_title">Edit Note</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Write something…</string>
+    <string name="save_note">Save Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="search_notes">Search notes…</string>
+    <string name="no_notes">No notes yet</string>
+    <string name="no_notes_sub">Capture your ideas and thoughts here.</string>
+    <string name="you_can_do_it">You Can Do It 💜</string>
+    <string name="motivational_note">Keep going. Every note is a step forward.</string>
+
+    <!-- Note Categories -->
+    <string name="note_cat_all">All</string>
+    <string name="note_cat_college">College</string>
+    <string name="note_cat_personal">Personal</string>
+    <string name="note_cat_ideas">Ideas</string>
+    <string name="note_cat_projects">Projects</string>
+
+    <!-- Schedule -->
+    <string name="schedule">Schedule</string>
+    <string name="subject">Subject</string>
+    <string name="teacher">Teacher</string>
+    <string name="room">Room</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="day_of_week">Day</string>
+    <string name="save_class">Save Class</string>
+    <string name="no_classes">No classes scheduled</string>
+
+    <!-- Exam -->
+    <string name="exams">Exams</string>
+    <string name="exam_subject">Subject</string>
+    <string name="exam_date">Exam Date</string>
+    <string name="exam_notes">Notes (optional)</string>
+    <string name="save_exam">Save Exam</string>
+    <string name="days_left">DAYS LEFT</string>
+    <string name="no_exams">No exams added</string>
+
+    <!-- Focus -->
+    <string name="focus_mode">Focus Mode</string>
+    <string name="start_focus">Start Focus</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="focus_complete">Focus session complete! 🎉</string>
+    <string name="select_activity">Select activity…</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="student_learner">Student | Learner | Dreamer 💗</string>
+    <string name="tasks_completed">Tasks Completed</string>
+    <string name="habits_completed">Habits Completed</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="focus_time">Focus Time</string>
+    <string name="achievements">Achievements</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="edit_name">Edit Name</string>
+
+    <!-- Settings -->
+    <string name="notifications">Notifications</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="theme">Theme</string>
+    <string name="app_lock">App Lock</string>
+    <string name="export_data">Export Data</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="clear_data_confirm">Are you sure you want to clear all data? This cannot be undone.</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <!-- Gamification -->
+    <string name="xp_earned">+%d XP</string>
+    <string name="level">Level %d</string>
+    <string name="level_up">Level Up! 🎉</string>
+    <string name="task_completed_xp">Task completed</string>
+    <string name="habit_completed_xp">Habit completed</string>
+    <string name="focus_completed_xp">Focus session done</string>
+
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="days_ago">%d days ago</string>
+    <string name="in_days">in %d days</string>
+    <string name="due">Due</string>
+    <string name="min">min</string>
+    <string name="days">days</string>
+    <string name="hrs">hrs</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xxl">48dp</dimen>
+
+    <!-- Card Radius -->
+    <dimen name="radius_card">20dp</dimen>
+    <dimen name="radius_card_sm">12dp</dimen>
+    <dimen name="radius_pill">28dp</dimen>
+    <dimen name="radius_circle">50dp</dimen>
+
+    <!-- Elevation -->
+    <dimen name="elevation_card">2dp</dimen>
+    <dimen name="elevation_dialog">8dp</dimen>
+    <dimen name="elevation_fab">6dp</dimen>
+
+    <!-- Typography -->
+    <dimen name="text_display">28sp</dimen>
+    <dimen name="text_headline">22sp</dimen>
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_subtitle">16sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_overline">10sp</dimen>
+
+    <!-- Touch targets -->
+    <dimen name="touch_target_min">48dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="icon_size_sm">20dp</dimen>
+    <dimen name="icon_size_lg">32dp</dimen>
+
+    <!-- Layout -->
+    <dimen name="bottom_nav_height">64dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="progress_ring_size">120dp</dimen>
+    <dimen name="progress_ring_stroke">10dp</dimen>
+    <dimen name="avatar_size">44dp</dimen>
+    <dimen name="avatar_size_large">80dp</dimen>
+    <dimen name="chip_height">36dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="content_padding">16dp</dimen>
+</resources>

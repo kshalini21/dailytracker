@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="horizontal" android:gravity="center_vertical"
+    android:padding="12dp" android:background="@drawable/bg_card_white"
+    android:layout_marginBottom="8dp">
+    <CheckBox android:id="@+id/cb_task"
+        android:layout_width="wrap_content" android:layout_height="48dp"
+        android:minWidth="48dp" android:buttonTint="@color/primary" />
+    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+        android:layout_weight="1" android:orientation="vertical" android:layout_marginStart="8dp">
+        <TextView android:id="@+id/tv_task_title" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:text="Task title"
+            android:textSize="14sp" android:textColor="@color/text_primary" android:textStyle="bold" />
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:gravity="center_vertical" android:layout_marginTop="2dp">
+            <TextView android:id="@+id/tv_task_cat" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="College"
+                android:textSize="11sp" android:textColor="@color/primary"
+                android:background="@drawable/bg_chip_unselected" android:paddingHorizontal="8dp"
+                android:paddingVertical="2dp" android:layout_marginEnd="8dp"/>
+            <TextView android:id="@+id/tv_task_due" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:text="Today"
+                android:textSize="11sp" android:textColor="@color/text_secondary" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

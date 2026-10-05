@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#7B78E4</color>
+    <color name="primary_dark">#6A67D1</color>
+    <color name="primary_variant">#5855C2</color>
+    <color name="light_lavender">#EDEBFF</color>
+    <color name="background">#F8F7FF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1F1F39</color>
+    <color name="text_secondary">#8E8EA9</color>
+    <color name="text_hint">#B0B0C8</color>
+    <color name="pink_bg">#FFF1F4</color>
+    <color name="pink_accent">#FFD9E3</color>
+    <color name="success">#4CD080</color>
+    <color name="success_light">#E8FFF2</color>
+    <color name="warning">#FFB020</color>
+    <color name="warning_light">#FFF8E8</color>
+    <color name="danger">#FF6B6B</color>
+    <color name="danger_light">#FFF0F0</color>
+    <color name="divider">#F0EFF8</color>
+    <color name="card_shadow">#1A7B78E4</color>
+    <color name="overlay">#80000000</color>
+    <color name="nav_unselected">#9E9EB8</color>
+    <color name="chip_bg">#F0EFFE</color>
+    <color name="habit_blue">#5B9CF6</color>
+    <color name="habit_green">#4CD080</color>
+    <color name="habit_orange">#FF8C42</color>
+    <color name="habit_purple">#7B78E4</color>
+    <color name="habit_pink">#FF7BAC</color>
+    <color name="priority_high">#FF6B6B</color>
+    <color name="priority_medium">#FFB020</color>
+    <color name="priority_low">#4CD080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
